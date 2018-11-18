@@ -1,3 +1,4 @@
+//Yiffy bot by Puyodead1 for The Church of Pyrocynical
 const Discord = require("discord.js");
 const fs = require("fs");
 let yiffs = require("./yiff.json");
